@@ -23,5 +23,6 @@ volumes:
 After creating the above file run
 Docker-compose up
  
+***********
 For connecting to the pod:
 docker exec -it mysql_db mysql --user=yadnyesh --password=yadnyesh
